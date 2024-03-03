@@ -7,4 +7,13 @@ In this we have learn about
   - promise chaining
   - create our own promise
   - error handling
-   - in promise chainigs also
+   - in promise chains also
+  - Some imp Promises
+    - Promise.all
+    - Promise.allSettled
+    - Promise.race
+    - Promise.any
+  - Diffference between resolve,reject and settled
+  - async and await
+   - when is asncy used and what it is imp
+   - when is await used and where it is used  
